@@ -12,3 +12,10 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 I made a change
 
 # Welcome to the Web unit of CS140!
+
+ - item 1
+ - items 2
+ - item 3
+
+ 1. item 1
+ 2. item 2
